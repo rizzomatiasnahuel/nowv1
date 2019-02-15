@@ -39,6 +39,19 @@
                     .back-text{background: #222;color: white;}
                     .solid {border-style: solid;border: }
                     .lista{list-style:none;}
+
+
+                    a.hover {
+                      background: #b15f08ad;
+                      width: 168px;
+                      height: 168px;
+                      display: block;
+                  }
+
+                    .hov:hover{
+                        opacity: 0.5;
+                    }
+                    
             </style> 
   </head>
   <body>
@@ -64,7 +77,7 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                   <ul class="nav navbar-nav">
-                    <li class=""><a href="#">Contacto</a></li>
+                    <li><a href="#">Contacto</a></li>
                     <li><a href="#">Categorias</a></li>
                     <li><a href="#">Quienes Somos</a></li>
                   </ul>
@@ -81,28 +94,7 @@
                 </div><!-- /.navbar-collapse -->
               </div><!-- /.container-fluid -->
             </nav>
-                <div class="row" align="center">
-                <div class="col-xs-12 col-md-12">
-        
-
-                    <h2>
-                      <a href="">
-                       <span> 
-                        Contactanos
-                        <br>
-                        0810 777 0420
-                        </span>
-                        <br>
-                      </a>                
-                      Lunes a Viernes de 10 a 18 hs.
-            
-                    </h2>
-
-
-              </div>
                 
-              </div>
-
               <div id="carousel-example-generic" class="my-carousel carousel slide" data-ride="carousel">
               <!-- Indicators -->
               <ol class="carousel-indicators">
@@ -145,60 +137,85 @@
                 <span class="sr-only">Next</span>
               </a>
             </div>
+            <div class="row" align="center">
+                <div class="col-xs-12 col-md-12">
+                   <h2>
+                      <a href="">
+                       <span> 
+                        Contactanos
+                        <br>
+                        0810 777 0420
+                        </span>
+                        <br>
+                      </a>                
+                      Lunes a Viernes de 10 a 18 hs.
+            
+                    </h2>
+
+
+              </div>
+                
+              </div>
+                <br>
+                <br>
 
              <div align="center">
                 <h2> <b> Categorias </b></h2>
                    
               </div>
-                    <div class="row">
-                      <div class="col-md-1 border margen" align="center">
-                       <a href=""><img src="img/1.png" class="img-responsive" alt="Responsive image"></a>
-                     </div>
-                      <div class="col-md-1 border margen" align="center">
-                        <a href=""><img src="img/2.png" class="img-responsive" alt="Responsive image"></a>
+                    
+                      <div class="row">
+                        <div class="col-md-6 col-xs-12" align="center">
+                        
+                         <div class="row">
+                          <div class="col-md-6 col-xs-6 " align="center">
+
+                             
+                              <a class="hover" href="#"><img src="img/1.png"  alt="Responsive image" class="hov"></a>
+                              <a class="hover" href="#"><img src="img/2.png"  alt="Responsive image" class="hov"></a>
+                          
+
+
+                        </div>
+                          <div class="col-md-6 col-xs-6 " align="center">
+
+                               <a class="hover" href="#"><img src="img/3.png" alt="Responsive image" class="hov"></a>
+                               <a class="hover" href="#"><img src="img/4.png" alt="Responsive image" class="hov"></a>
+                          
+
+
+                        </div>
+                        </div>
+                                    
+                                 
+                    
+                      </div>
+                      <div class="col-md-6 col-xs-12  " align="center">
                       
-                      </div>
-                      <div class="col-md-1 border margen" align="center">
-                        <a href=""><img src="img/3.png" class="img-responsive" alt="Responsive image"></a>
+                       <div class="row">
+                            <div class="col-md-6 col-xs-6" align="center">
 
-                      </div>
-                      <div class="col-md-1 border margen" align="center">
-                        <a href=""><img src="img/4.png" class="img-responsive" alt="Responsive image"></a>
+                               <a class="hover" href="#"><img src="img/5.png" alt="Responsive image" class="hov" ></a>
+                               <a class="hover" href="#"><img src="img/6.png" alt="Responsive image" class="hov" ></a>
+                            
 
-                      </div>
-                      <div class="col-md-1 border margen" align="center">
-                        <a href=""><img src="img/5.png" class="img-responsive" alt="Responsive image"></a>
 
-                      </div>
-                      <div class="col-md-1 border margen" align="center">
-                        <a href=""><img src="img/6.png" class="img-responsive" alt="Responsive image"></a>
+                          </div>
+                            <div class="col-md-6 col-xs-6" align="center">
 
-                      </div>
-                      <div class="col-md-1 border " align="center">
-                        <a href=""><img src="img/7.png" class="img-responsive" alt="Responsive image"></a>
+                                 <a class="hover" href="#"><img src="img/7.png" alt="Responsive image" class="hov"></a>
+                                 <a class="hover" href="#"><img src="img/8.png" alt="Responsive image" class="hov"></a> 
 
-                      </div>
-                      <div class="col-md-1 border margen" align="center">
-                        <a href=""><img src="img/8.png" class="img-responsive" alt="Responsive image"></a>
+                            
 
-                      </div>
-                      <div class="col-md-1 border margen" align="center">
-                        <a href=""><img src="img/1.png" class="img-responsive" alt="Responsive image"></a>
 
+                          </div>
+                          </div>
+          
                       </div>
-                      <div class="col-md-1 border margen" align="center">
-                        <a href=""><img src="img/1.png" class="img-responsive" alt="Responsive image"></a>
-
                       </div>
-                      <div class="col-md-1 border margen" align="center">
-                        <a href=""><img src="img/1.png" class="img-responsive" alt="Responsive image"></a>
-
-                      </div>
-                      <div class="col-md-1 border margen" align="center">
-                        <a href=""><img src="img/1.png" class="img-responsive" alt="Responsive image"></a>
-
-                      </div>
-                    </div>
+                    <br>
+                    <br>
 
                     <div class="row" id="recuadro1"> 
                            <div class="row" align="center">
@@ -206,19 +223,119 @@
                    
                           </div>
                                   <p></p>
-                    </div> 
+                    </div>
 
+                     <br>
+                     <br>
+                     <br> 
+                     <div class="row" align="center">
+                       <div class="col-xs-12 col-md-12">
+                              <h2> <b> Empresas </b></h2>
+                                <p> Ellas elejieron confiar<p>
+                        
+
+                        
+                          <div class="col-sm-6 col-md-4">
+                            <div class="thumbnail">
+                              <img src="..." alt="...">
+                              <div class="caption">
+                                <h3>Thumbnail label</h3>
+                                <p>...</p>
+                                <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+                              </div>
+                            </div>
+                          </div>
+                        
+                        
+                        
+                        <div class="col-sm-6 col-md-4">
+                          <div class="thumbnail">
+                            <img src="..." alt="...">
+                            <div class="caption">
+                              <h3>Thumbnail label</h3>
+                              <p>...</p>
+                              <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+                            </div>
+                          </div>
+                        </div>
+                      
+
+
+
+                        <div class="col-sm-6 col-md-4">
+                          <div class="thumbnail">
+                            <img src="..." alt="...">
+                            <div class="caption">
+                              <h3>Thumbnail label</h3>
+                              <p>...</p>
+                              <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+                            </div>
+                          </div>
+                        </div>
+                                                             
+                        <div class="col-sm-6 col-md-4">
+                            <div class="thumbnail">
+                              <img src="..." alt="...">
+                              <div class="caption">
+                                <h3>Thumbnail label</h3>
+                                <p>...</p>
+                                <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+                              </div>
+                            </div>
+                          </div>
+                        
+                        
+                        
+                        <div class="col-sm-6 col-md-4">
+                          <div class="thumbnail">
+                            <img src="..." alt="...">
+                            <div class="caption">
+                              <h3>Thumbnail label</h3>
+                              <p>...</p>
+                              <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+                            </div>
+                          </div>
+                        </div>
+                      
+
+
+
+                        <div class="col-sm-6 col-md-4">
+                          <div class="thumbnail">
+                            <img src="..." alt="...">
+                            <div class="caption">
+                              <h3>Thumbnail label</h3>
+                              <p>...</p>
+                              <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+                            </div>
+                          </div>
+                        </div>
+
+
+
+
+
+
+                       </div>
+                     </div> 
+
+                      <br>
+                      <br>
+                      <br>
               
 
+
                    <div class="row " align="center">
-                            <div class="col-xs-6 col-md-4 solid">
+                           
+                            <div class="col-xs-12 col-md-4 "  align="center">
+                                  <h4>Categorias!</H4>
                                   <ul>
-                                    <li class="lista"><a href="#">Contacto</a></li>
-                                    <li class="lista"><a href="#">Categorias</a></li>
-                                    <li class="lista"><a href="#">Quienes Somos</a></li>
+                                    <a href="#">Contacto</a>
+                                    <a href="#">Categorias</a>
+                                    <a href="#">Quienes Somos</a>
                                   </ul>
                             </div>
-                            <div class="col-xs-6 col-md-4 solid">
+                            <div class="col-xs-12 col-md-4 "  align="center">
                                  <h4>Contactanos</H4>
                             <h5><a href="">
                                <span>0810 777 0420</span>
@@ -226,7 +343,7 @@
                                 </a>                
                             </h5>
                             </div>
-                            <div class="col-xs-12 col-md-4 solid">
+                            <div class="col-xs-12 col-md-4 "  align="center">
                                   <h4>Seguinos!</H4>
                                     <ul>
                                     <a href="#" class="fa fa-facebook"></a>
