@@ -26,8 +26,8 @@
   <header>
 <?php include 'menu.php';?>
 
-<h1 align="center">Remodelaciones</h1>
-<div>
+<h1 align="center">Pintura</h1>
+
 <!-- lightbox -->
 <div class="row" align="center">
   <div class="col-md-6 col-xs-12 " align="center">
@@ -122,6 +122,7 @@
 
 
 <!-- Endlightbox -->
+
 <!-- lightbox -->
 <div class="row" align="center">
   <div class="col-md-6 col-xs-12 " align="center">
@@ -214,10 +215,9 @@
 
 </div> 
 
-
+</div>
 <!-- Endlightbox -->
 
-</div>
 
 <?php include 'footer.php';?>
 

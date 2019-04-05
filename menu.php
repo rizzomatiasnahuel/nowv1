@@ -1,7 +1,7 @@
    <div class="container-fluid ">
           <div class="row">
 
-              <nav class="navbar navbar-inverse">
+              <nav class="navbar navbar-inverse quienes">
               <div class="container-fluid">
                 <!-- Brand and toggle get grouped for better mobile display -->
                 <div class="navbar-header">
@@ -11,7 +11,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                   </button>
-                  <a href="#">
+                  <a href="index.php">
                     <img  alt="Website Logo" src="img/NOWV2.png"/>
 
                   </a>
@@ -26,14 +26,14 @@
                     <li class="dropdown">
                       <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Categorias <span class="caret"></span></a>
                       <ul class="dropdown-menu">
-                        <li><a href="remodelaciones.php">REMODELACIONES</a></li>
-                        <li><a href="#">ALBAÑILERIA</a></li>
-                        <li><a href="#">DURLOCK</a></li>
-                        <li><a href="#">PINTURA</a></li>
-                        <li><a href="#">PROYECTOS</a></li>
-                        <li><a href="#">CERAMICOS</a></li>
-                        <li><a href="#">MUEBLES DE COCINA</a></li>
-                        <li><a href="#">PLACAS ANTIHUMEDAD</a></li>
+                       <li><a href="remodelaciones.php">REMODELACIONES</a></li>
+                        <li><a href="albileria.php">ALBAÑILERIA</a></li>
+                        <li><a href="durlock.php">DURLOCK</a></li>
+                        <li><a href="pintura.php">PINTURA</a></li>
+                        <li><a href="proyectos.php">PROYECTOS</a></li>
+                        <li><a href="ceramicos.php">CERAMICOS</a></li>
+                        <li><a href="muebles.php">MUEBLES DE COCINA</a></li>
+                        <li><a href="antihumedad.php">PLACAS ANTIHUMEDAD</a></li>
                         
                       </ul>
                     </li>
@@ -43,12 +43,11 @@
                   
                   <ul class="nav navbar-nav navbar-right">
                   
-                                    <a href="#" target="_blank" class="fa fa-facebook"></a>
-                                    <a href="#" target="_blank" class="fa fa-twitter"></a>
-                                    <a href="#" target="_blank" class="fa fa-google"></a>
+                                 <a href="https://www.facebook.com/Toolcomar-242483929967483/?modal=admin_todo_tour" target="_blank" class="fa fa-facebook"></a>
+                                    <a href="https://twitter.com/tool_ar" target="_blank" class="fa fa-twitter"></a>
                                     <a href="#" target="_blank" class="fa fa-linkedin"></a>
-                                    <a href="#" target="_blank" class="fa fa-youtube"></a>
-                                    <a href="#" target="_blank" class="fa fa-instagram"></a>
+                                    <a href="https://www.youtube.com/channel/UCaStPxG79xj9gGI9y-bMqZA?disable_polymer=true" target="_blank" class="fa fa-youtube"></a>
+                                    <a href="https://www.instagram.com/tool.com.ar/" target="_blank" class="fa fa-instagram"></a>
                   </ul>
                 </div><!-- /.navbar-collapse -->
               </div><!-- /.container-fluid -->
