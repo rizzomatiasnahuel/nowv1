@@ -21,10 +21,10 @@
     <![endif]-->
 
   </head>
-  <body>
+  <body >
 
   <header>
-    <div class="container-fluid marg ">
+    <div class="container-fluid">
           <div class="row">
 
               <nav class="navbar navbar-inverse quienes">
@@ -38,7 +38,7 @@
                     <span class="icon-bar"></span>
                   </button>
                   <a href="#">
-                    <img  alt="Website Logo" src="img/NOWV2.png"/>
+                    <img  alt="Website Logo" src="img/tool.jpg"/>
 
                   </a>
                 </div>
@@ -126,7 +126,7 @@
             </div>
             <header>
       
-                      <div class="row marg quienes" align="center"  id="quienessomos">
+                      <div class="row  quienes" align="center"  id="quienessomos">
                         <h2> <b> Quienes Somos? </b></h2>
                       <div class="col-md-6 col-xs-12">
                           
@@ -153,7 +153,7 @@
                <img src="img/wq1.jpg" style="max-width:100%;width:auto;height:auto;">
                           </div> 
                           </div>
-                            <div class="row marg quienes" align="center"  id="quienessomos">
+                            <div class="row  quienes" align="center"  id="quienessomos">
                                <h2> <b> Ventajas </b></h2>
                       <div class="col-md-6 col-xs-12">
                       <img src="img/wd.jpg" style="max-width:100%;width:auto;height:auto;">
@@ -186,7 +186,7 @@
                           </div>
                     
                           <br>
-                           <div class="row marg" align="center" id="contactanos">
+                           <div class="row " align="center" id="contactanos">
                                           <div class="col-xs-12 col-md-12">
                                              <h2>
                                                 <a href="https://forms.gle/7pCUDKiPxR2of8kn8" target="_blank">
@@ -203,7 +203,7 @@
                                           
                                         </div>
                     <br>
-             <div class="row marg" align="center" id="Empresas">
+             <div class="row " align="center" id="Empresas">
                        <div class="col-xs-12 col-md-12">
                               <h2> <b> Empresas </b></h2>
                                 <p> Ellas elejieron confiar<p>
@@ -360,7 +360,7 @@
                 <br>
                 <br>
 
-                    <div class="row marg" align="center" id="productos">
+                    <div class="row " align="center" id="productos">
                        <h2> <b> Productos </b></h2>
                       <div class="row">
   <div class="column">
@@ -457,6 +457,7 @@
   </div>
   
 </div>
+</div>  
 
 
   

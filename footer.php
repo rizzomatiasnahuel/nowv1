@@ -1,8 +1,8 @@
 
+<div class="container-fluid">
+            <footer>
 
-
-
-                 <div class="row quienes" align="center">
+                 <div class="row quienes " >
                            
                             <div class="col-xs-12 col-md-4 "  align="center">
                                   <h4>Categorias!</H4>
@@ -37,17 +37,15 @@
                                     </ul>
 
                           </div>
-                   </div>   
-
-
-
-<div class="row quienes" align="center">
-  <div class="col-xs-12 col-md-12">
-    © 2019 - Now Construcciones / Todos los derechos reservados - Términos y Condiciones | Políticas de Privacidad
-  </div>
-  
-</div>
-
-
+                   </div>  
  
-    </div>
+  </footer>
+  
+                  <div class="row quienes" align="center">
+                    <div class="col-xs-12 col-md-12">
+                      © 2019 - Now Construcciones / Todos los derechos reservados - Términos y Condiciones | Políticas de Privacidad
+                    </div>
+  
+                  </div>
+
+                  </div>

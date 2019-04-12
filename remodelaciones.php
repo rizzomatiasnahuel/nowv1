@@ -23,208 +23,115 @@
   </head>
   <body>
 
-  <header>
+
+      
 <?php include 'menu.php';?>
 
+<div class="container-fluid">
+
 <h1 align="center">Remodelaciones</h1>
-<div>
 <!-- lightbox -->
 <div class="row" align="center">
-  <div class="col-md-6 col-xs-12 " align="center">
-       <div class="bordesempresas margcategorias">
-    <h2>Empresa: </h2>
-    <div align="left">
-    <h3>categoria</h3>
-    <h4>Descripcion</h4>
+              <div class="col-md-6 col-xs-12 " align="center">
+                                     <div class="bordesempresas margcategorias">
+                                            <h2>Empresa: </h2>
+                                            <div align="left">
+                                                  <h3>categoria</h3>
+                                                  <h4>Descripcion</h4>
 
-    <h3>Contacto <br>
-    Pagina: <br>
-    Telefono: <br>
-    Correo <br> 
+                                                  <h3>Contacto <br>
+                                                  Pagina: <br>
+                                                  Telefono: <br>
+                                                  Correo <br> 
 
-    </h3>
-    </div>
-</div>
-  
-</div>
+                                                  </h3>
+                                         </div>
+                                 </div>
+              
+            </div>
   <div class="col-md-6 col-xs-12">
+      
+                      <!-- Images used to open the lightbox -->
+                    <div class="row">
+                              <div class="column imagresponsive">
+                                <img src="img/r1.jpg" onclick="openModal();currentSlide(1)" class="hover-shadow">
+                              </div>
+                              <div class="column imagresponsive">
+                                <img src="img/r2.jpg" onclick="openModal();currentSlide(2)" class="hover-shadow">
+                              </div>
+                              <div class="column imagresponsive">
+                                <img src="img/r3.jpg" onclick="openModal();currentSlide(3)" class="hover-shadow">
+                              </div>
+                              <div class="column imagresponsive">
+                                <img src="img/r1.jpg" onclick="openModal();currentSlide(4)" class="hover-shadow">
+                              </div>
+                    </div>
 
-  <!-- Images used to open the lightbox -->
-<div class="row">
-  <div class="column">
-    <img src="img/r1.jpg" onclick="openModal();currentSlide(1)" class="hover-shadow">
-  </div>
-  <div class="column">
-    <img src="img/r2.jpg" onclick="openModal();currentSlide(2)" class="hover-shadow">
-  </div>
-  <div class="column">
-    <img src="img/r3.jpg" onclick="openModal();currentSlide(3)" class="hover-shadow">
-  </div>
-  <div class="column">
-    <img src="img/r1.jpg" onclick="openModal();currentSlide(4)" class="hover-shadow">
-  </div>
+                              <!-- The Modal/Lightbox -->
+                              <div id="myModal" class="modal">
+                                <span class="close cursor" onclick="closeModal()">&times;</span>
+                                <div class="modal-content">
+
+                                  <div class="mySlides">
+                                    <div class="numbertext">1 / 4</div>
+                                    <img src="img/r1.jpg" style="width:50%">
+                                  </div>
+
+                                  <div class="mySlides">
+                                    <div class="numbertext">2 / 4</div>
+                                    <img src="img/r2.jpg" style="width:50%">
+                                  </div>
+
+                                  <div class="mySlides">
+                                    <div class="numbertext">3 / 4</div>
+                                    <img src="img/r3.jpg" style="width:50%">
+                                  </div>
+
+                                  <div class="mySlides">
+                                    <div class="numbertext">4 / 4</div>
+                                    <img src="img/r1.jpg" style="width:50%">
+                                  </div>
+
+                                  <!-- Next/previous controls -->
+                                  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                                  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+                                  <!-- Caption text -->
+                                  <div class="caption-container">
+                                    <p id="caption"></p>
+                                  </div>
+
+                                  <!-- Thumbnail image controls -->
+                                  <div class="column">
+                                    <img class="demo" src="img/r1.jpg" onclick="currentSlide(1)" >
+                                  </div>
+
+                                  <div class="column">
+                                    <img class="demo" src="img/r2.jpg" onclick="currentSlide(2)">
+                                  </div>
+
+                                  <div class="column">
+                                    <img class="demo" src="img/r3.jpg" onclick="currentSlide(3)" >
+                                  </div>
+
+                                  <div class="column">
+                                    <img class="demo" src="img/r1.jpg" onclick="currentSlide(4)" >
+                                  </div>
+                              </div>
+                              </div>
 </div>
-
-<!-- The Modal/Lightbox -->
-<div id="myModal" class="modal">
-  <span class="close cursor" onclick="closeModal()">&times;</span>
-  <div class="modal-content">
-
-    <div class="mySlides">
-      <div class="numbertext">1 / 4</div>
-      <img src="img/r1.jpg" style="width:50%">
-    </div>
-
-    <div class="mySlides">
-      <div class="numbertext">2 / 4</div>
-      <img src="img/r2.jpg" style="width:50%">
-    </div>
-
-    <div class="mySlides">
-      <div class="numbertext">3 / 4</div>
-      <img src="img/r3.jpg" style="width:50%">
-    </div>
-
-    <div class="mySlides">
-      <div class="numbertext">4 / 4</div>
-      <img src="img/r1.jpg" style="width:50%">
-    </div>
-
-    <!-- Next/previous controls -->
-    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-    <a class="next" onclick="plusSlides(1)">&#10095;</a>
-
-    <!-- Caption text -->
-    <div class="caption-container">
-      <p id="caption"></p>
-    </div>
-
-    <!-- Thumbnail image controls -->
-    <div class="column">
-      <img class="demo" src="img/r1.jpg" onclick="currentSlide(1)" >
-    </div>
-
-    <div class="column">
-      <img class="demo" src="img/r2.jpg" onclick="currentSlide(2)">
-    </div>
-
-    <div class="column">
-      <img class="demo" src="img/r3.jpg" onclick="currentSlide(3)" >
-    </div>
-
-    <div class="column">
-      <img class="demo" src="img/r1.jpg" onclick="currentSlide(4)" >
-    </div>
-  </div>
 </div>
-
-</div> 
-
-
-<!-- Endlightbox -->
-<!-- lightbox -->
-<div class="row" align="center">
-  <div class="col-md-6 col-xs-12 " align="center">
-       <div class="bordesempresas margcategorias">
-    <h2>Empresa: </h2>
-    <div align="left">
-    <h3>categoria</h3>
-    <h4>Descripcion</h4>
-
-    <h3>Contacto <br>
-    Pagina: <br>
-    Telefono: <br>
-    Correo <br> 
-
-    </h3>
-    </div>
-</div>
-  
-</div>
-  <div class="col-md-6 col-xs-12">
-
-  <!-- Images used to open the lightbox -->
-<div class="row">
-  <div class="column">
-    <img src="img/r1.jpg" onclick="openModal();currentSlide(1)" class="hover-shadow">
-  </div>
-  <div class="column">
-    <img src="img/r2.jpg" onclick="openModal();currentSlide(2)" class="hover-shadow">
-  </div>
-  <div class="column">
-    <img src="img/r3.jpg" onclick="openModal();currentSlide(3)" class="hover-shadow">
-  </div>
-  <div class="column">
-    <img src="img/r1.jpg" onclick="openModal();currentSlide(4)" class="hover-shadow">
-  </div>
-</div>
-
-<!-- The Modal/Lightbox -->
-<div id="myModal" class="modal">
-  <span class="close cursor" onclick="closeModal()">&times;</span>
-  <div class="modal-content">
-
-    <div class="mySlides">
-      <div class="numbertext">1 / 4</div>
-      <img src="img/r1.jpg" style="width:50%">
-    </div>
-
-    <div class="mySlides">
-      <div class="numbertext">2 / 4</div>
-      <img src="img/r2.jpg" style="width:50%">
-    </div>
-
-    <div class="mySlides">
-      <div class="numbertext">3 / 4</div>
-      <img src="img/r3.jpg" style="width:50%">
-    </div>
-
-    <div class="mySlides">
-      <div class="numbertext">4 / 4</div>
-      <img src="img/r1.jpg" style="width:50%">
-    </div>
-
-    <!-- Next/previous controls -->
-    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-    <a class="next" onclick="plusSlides(1)">&#10095;</a>
-
-    <!-- Caption text -->
-    <div class="caption-container">
-      <p id="caption"></p>
-    </div>
-
-    <!-- Thumbnail image controls -->
-    <div class="column">
-      <img class="demo" src="img/r1.jpg" onclick="currentSlide(1)" >
-    </div>
-
-    <div class="column">
-      <img class="demo" src="img/r2.jpg" onclick="currentSlide(2)">
-    </div>
-
-    <div class="column">
-      <img class="demo" src="img/r3.jpg" onclick="currentSlide(3)" >
-    </div>
-
-    <div class="column">
-      <img class="demo" src="img/r1.jpg" onclick="currentSlide(4)" >
-    </div>
-  </div>
-</div>
-
-</div> 
-
 
 <!-- Endlightbox -->
 
 </div>
+           
 
 <?php include 'footer.php';?>
 
 
 
-    </div>
-    </div>
+   
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
