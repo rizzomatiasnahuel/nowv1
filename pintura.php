@@ -46,17 +46,17 @@
 <div class="row" align="center">
               <div class="col-md-6 col-xs-12 " align="center">
                                      <div class="bordesempresas margcategorias">
-                                            <a href="https://www.facebook.com/guillermo.godoy.92102" target="_blank" >
-                                                <h2>Empresa:Construccion Steel Framing  </h2>
-                                             </a> 
-
+                                            <a href="" target="_blank" >
+                                              <h2>Empresa:Empresa Mutiservicio  </h2>
+                                            </a>
                                             <div align="left">
-                                                  <h3>Categoria:</h3>Remodelaciones <br>
-                                                  <h4>Descripcion:</h4>Construccion steel framing- Proyecto de obra
+                                                  <h3>Categoria:</h3>Albiñileria Durlock <br>
+                                                  <h4>Descripcion:</h4>Ampliación, reformas, pinturas, durlock, electricidad, plomería, techista en general, colocación de cerámicos, filtraciones, herrería artística, construcción general.
+
 
                                                   <h3>Contacto</h3> 
-                                                  Pagina: <a href="https://www.facebook.com/guillermo.godoy.92102" target="_blank" >Facebook</a> <br>
-                                                  Telefono: 11 5419-2797 <br>
+                                                  Email: <a href="" target="_blank" >jlviviendas@gmail.com</a> <br>
+                                                  Telefono: 011 4045-7253 <br>
                                                  
                                                   </h3>
                                          </div>
@@ -68,17 +68,12 @@
                       <!-- Images used to open the lightbox -->
                     <div class="row">
                               <div class="column imagresponsive">
-                                <img src="img/durlock1.png" onclick="openModal();currentSlide(1)" class="hover-shadow">
+                                <img src="img/multi11.png" onclick="openModal();currentSlide(1)" class="hover-shadow">
                               </div>
                               <div class="column imagresponsive">
-                                <img src="img/durlock2.png" onclick="openModal();currentSlide(2)" class="hover-shadow">
+                                <img src="img/multi12.png" onclick="openModal();currentSlide(2)" class="hover-shadow">
                               </div>
-                              <div class="column imagresponsive">
-                                <img src="img/durlock3.png" onclick="openModal();currentSlide(3)" class="hover-shadow">
-                              </div>
-                              <div class="column imagresponsive">
-                                <img src="img/durlock4.png" onclick="openModal();currentSlide(4)" class="hover-shadow">
-                              </div>
+                         
                     </div>
 
                               <!-- The Modal/Lightbox -->
@@ -88,12 +83,12 @@
 
                                   <div class="mySlides">
                                     <div class="numbertext">1 / 8</div>
-                                    <img src="img/durlock1.png" style="width:50%">
+                                    <img src="img/multi.png" style="width:50%">
                                   </div>
 
                                   <div class="mySlides">
                                     <div class="numbertext">2 / 8</div>
-                                    <img src="img/durlock2.png" style="width:50%">
+                                    <img src="img/multi2.png" style="width:50%">
                                   </div>
 
                                   <div class="mySlides">

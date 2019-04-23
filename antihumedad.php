@@ -108,22 +108,22 @@
 
                                    <div class="mySlides">
                                     <div class="numbertext">5 / 8</div>
-                                    <img src="img/durlock5.png" style="width:50%">
+                                    <img src="img/sizif1.png" style="width:50%">
                                   </div>
 
                                   <div class="mySlides">
                                     <div class="numbertext">6 / 8</div>
-                                    <img src="img/durlock6.png" style="width:50%">
+                                    <img src="img/sizif2.png" style="width:50%">
                                   </div>
 
                                   <div class="mySlides">
                                     <div class="numbertext">7 / 8</div>
-                                    <img src="img/durlock7.png" style="width:50%">
+                                    <img src="img/sizif3.png" style="width:50%">
                                   </div>
 
                                   <div class="mySlides">
                                     <div class="numbertext">8 / 8</div>
-                                    <img src="img/durlock8.png" style="width:50%">
+                                    <img src="img/sizif4.png" style="width:50%">
                                   </div>
 
                                   <!-- Next/previous controls -->
@@ -153,19 +153,19 @@
                                   </div>
 
                                   <div class="column">
-                                    <img class="demo" src="img/durlock5.png" onclick="currentSlide(5)" >
+                                    <img class="demo" src="img/sizif1.png" onclick="currentSlide(5)" >
                                   </div>
 
                                   <div class="column">
-                                    <img class="demo" src="img/durlock6.png" onclick="currentSlide(6)">
+                                    <img class="demo" src="img/sizif2.png" onclick="currentSlide(6)">
                                   </div>
 
                                   <div class="column">
-                                    <img class="demo" src="img/durlock7.png" onclick="currentSlide(7)" >
+                                    <img class="demo" src="img/sizif3.png" onclick="currentSlide(7)" >
                                   </div>
 
                                   <div class="column">
-                                    <img class="demo" src="img/durlock8.png" onclick="currentSlide(8)" >
+                                    <img class="demo" src="img/sizif4.png" onclick="currentSlide(8)" >
                                   </div>
                               </div>
                               </div>
@@ -177,19 +177,17 @@
 <div class="row" align="center">
               <div class="col-md-6 col-xs-12 " align="center">
                                      <div class="bordesempresas margcategorias">
-                                            <a href="https://www.facebook.com/people/Zita-Marmolesygranitos/100015459668029" target="_blank" >
-                                              <h2>Empresa:Zita Marmoles y Granitos  </h2>
+                                             <a href="https://www.sizifsrl.com" target="_blank" >
+                                              <h2>Empresa:Sizifsrl </h2>
                                             </a>
                                             <div align="left">
-                                                  <h3>Categoria:</h3>Remodelaciones <br>
-                                                  <h4>Descripcion:</h4>Trabajos en todo el pais.
-                                                  Marmoles , granitos, Silestone, Medición en obra.
-                                                  Los esperamos en Av. Brig. Juan Manuel de Rosas 14.850 (ruta 3 km 30) esq. Atalco(Colectora mano San justo) Gonzalez  Catan. 
+                                                  <h3>Categoria:</h3>Proyectos-Impermeabilizaciones <br>
+                                                  <h4>Descripcion:</h4>Consultoría, Proyecto, Dirección, Ejecución de Servicios de Obra en sistemas de Impermeabilización.
 
 
                                                   <h3>Contacto</h3> 
-                                                  Pagina: <a href="https://www.facebook.com/people/Zita-Marmolesygranitos/100015459668029" target="_blank" >Facebook</a> <br>
-                                                  Telefono: 11-5312-2527 <br>
+                                                  Pagina: <a href="https://www.sizifsrl.com" target="_blank" >Sizifsrl</a> <br>
+                                                  Telefono: (011)  4553- 5500 <br>
                                                  
                                                   </h3>
                                          </div>
@@ -201,16 +199,16 @@
                       <!-- Images used to open the lightbox -->
                     <div class="row">
                               <div class="column imagresponsive">
-                                <img src="img/durlock5.png" onclick="openModal();currentSlide(5)" class="hover-shadow">
+                                <img src="img/sizif11.png" onclick="openModal();currentSlide(5)" class="hover-shadow">
                               </div>
                               <div class="column imagresponsive">
-                                <img src="img/durlock6.png" onclick="openModal();currentSlide(6)" class="hover-shadow">
+                                <img src="img/sizif12.png" onclick="openModal();currentSlide(6)" class="hover-shadow">
                               </div>
                               <div class="column imagresponsive">
-                                <img src="img/durlock7.png" onclick="openModal();currentSlide(7)" class="hover-shadow">
+                                <img src="img/sizif13.png" onclick="openModal();currentSlide(7)" class="hover-shadow">
                               </div>
                               <div class="column imagresponsive">
-                                <img src="img/durlock8.png" onclick="openModal();currentSlide(8)" class="hover-shadow">
+                                <img src="img/sizif14.png" onclick="openModal();currentSlide(8)" class="hover-shadow">
                               </div>
                     </div>
 
