@@ -24,14 +24,13 @@
                                         
                                                 </a>                
                                               </h2>
-                                              <h3><a href="https://forms.gle/7pCUDKiPxR2of8kn8" target="_blank">tool.com.ar@gmail.com</a></h3>
+                                              <h3><a href="https://forms.gle/7pCUDKiPxR2of8kn8" target="_blank">tool@tool.com.ar</a></h3>
                             </div>
                             <div class="col-xs-12 col-md-4 "  align="center">
                                   <h4>Seguinos!</H4>
                                     <ul>
                                     <a href="https://www.facebook.com/Toolcomar-242483929967483/?modal=admin_todo_tour" target="_blank" class="fa fa-facebook"></a>
                                     <a href="https://twitter.com/tool_ar" target="_blank" class="fa fa-twitter"></a>
-                                    <a href="#" target="_blank" class="fa fa-linkedin"></a>
                                     <a href="https://www.youtube.com/channel/UCaStPxG79xj9gGI9y-bMqZA?disable_polymer=true" target="_blank" class="fa fa-youtube"></a>
                                     <a href="https://www.instagram.com/tool.com.ar/" target="_blank" class="fa fa-instagram"></a>
                                     </ul>

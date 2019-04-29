@@ -1,6 +1,6 @@
    <header>
     <div class="container-fluid">
-          <div class="row" style="font-family:cursive">
+          <div class="row" style="font-family:cursive;font-size:15px" >
 
               <nav class="navbar navbar-inverse quienes">
               <div class="container-fluid">
@@ -46,7 +46,6 @@
                   
                                     <a href="https://www.facebook.com/Toolcomar-242483929967483/?modal=admin_todo_tour" target="_blank" class="fa fa-facebook"></a>
                                     <a href="https://twitter.com/tool_ar" target="_blank" class="fa fa-twitter"></a>
-                                    <a href="#" target="_blank" class="fa fa-linkedin"></a>
                                     <a href="https://www.youtube.com/channel/UCaStPxG79xj9gGI9y-bMqZA?disable_polymer=true" target="_blank" class="fa fa-youtube"></a>
                                     <a href="https://www.instagram.com/tool.com.ar/" target="_blank" class="fa fa-instagram"></a>
                   </ul>

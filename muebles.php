@@ -44,7 +44,7 @@
 <h1 align="center" style="font-family:cursive">Muebles de Cocina</h1>
 <!-- lightbox -->
 <div class="row" align="center">
-              <div class="col-md-6 col-xs-12 " align="center">
+              <div class="col-md-6 col-xs-12 " align="center" style="font-family:cursive;font-size:15px">
                                      <div class="bordesempresas margcategorias">
                                             <a href="https://www.facebook.com/guillermo.godoy.92102" target="_blank" >
                                                 <h2>Empresa:Construccion Steel Framing  </h2>
@@ -88,42 +88,42 @@
 
                                   <div class="mySlides">
                                     <div class="numbertext">1 / 8</div>
-                                    <img src="img/durlock1.png" style="width:50%">
+                                    <img src="img/durlock1.png" style="width:70%">
                                   </div>
 
                                   <div class="mySlides">
                                     <div class="numbertext">2 / 8</div>
-                                    <img src="img/durlock2.png" style="width:50%">
+                                    <img src="img/durlock2.png" style="width:70%">
                                   </div>
 
                                   <div class="mySlides">
                                     <div class="numbertext">3 / 8</div>
-                                    <img src="img/durlock3.png" style="width:50%">
+                                    <img src="img/durlock3.png" style="width:70%">
                                   </div>
 
                                   <div class="mySlides">
                                     <div class="numbertext">4 / 8</div>
-                                    <img src="img/durlock4.png" style="width:50%">
+                                    <img src="img/durlock4.png" style="width:70%">
                                   </div>
 
                                    <div class="mySlides">
                                     <div class="numbertext">5 / 8</div>
-                                    <img src="img/durlock5.png" style="width:50%">
+                                    <img src="img/durlock5.png" style="width:70%">
                                   </div>
 
                                   <div class="mySlides">
                                     <div class="numbertext">6 / 8</div>
-                                    <img src="img/durlock6.png" style="width:50%">
+                                    <img src="img/durlock6.png" style="width:70%">
                                   </div>
 
                                   <div class="mySlides">
                                     <div class="numbertext">7 / 8</div>
-                                    <img src="img/durlock7.png" style="width:50%">
+                                    <img src="img/durlock7.png" style="width:70%">
                                   </div>
 
                                   <div class="mySlides">
                                     <div class="numbertext">8 / 8</div>
-                                    <img src="img/durlock8.png" style="width:50%">
+                                    <img src="img/durlock8.png" style="width:70%">
                                   </div>
 
                                   <!-- Next/previous controls -->
@@ -135,38 +135,7 @@
                                     <p id="caption"></p>
                                   </div>
 
-                                  <!-- Thumbnail image controls -->
-                                  <div class="column">
-                                    <img class="demo" src="img/durlock1.png" onclick="currentSlide(1)" >
-                                  </div>
-
-                                  <div class="column">
-                                    <img class="demo" src="img/durlock2.png" onclick="currentSlide(2)">
-                                  </div>
-
-                                  <div class="column">
-                                    <img class="demo" src="img/durlock3.png" onclick="currentSlide(3)" >
-                                  </div>
-
-                                  <div class="column">
-                                    <img class="demo" src="img/durlock4.png" onclick="currentSlide(4)" >
-                                  </div>
-
-                                  <div class="column">
-                                    <img class="demo" src="img/durlock5.png" onclick="currentSlide(5)" >
-                                  </div>
-
-                                  <div class="column">
-                                    <img class="demo" src="img/durlock6.png" onclick="currentSlide(6)">
-                                  </div>
-
-                                  <div class="column">
-                                    <img class="demo" src="img/durlock7.png" onclick="currentSlide(7)" >
-                                  </div>
-
-                                  <div class="column">
-                                    <img class="demo" src="img/durlock8.png" onclick="currentSlide(8)" >
-                                  </div>
+                               
                               </div>
                               </div>
 </div>
@@ -175,7 +144,7 @@
 <!-- Endlightbox -->
 <!-- lightbox -->
 <div class="row" align="center">
-              <div class="col-md-6 col-xs-12 " align="center">
+              <div class="col-md-6 col-xs-12 " align="center" style="font-family:cursive;font-size:15px">
                                      <div class="bordesempresas margcategorias">
                                             <a href="https://www.facebook.com/people/Zita-Marmolesygranitos/100015459668029" target="_blank" >
                                               <h2>Empresa:Zita Marmoles y Granitos  </h2>

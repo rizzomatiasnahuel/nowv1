@@ -28,7 +28,7 @@
   
   <meta name="DESCRIPTION" content="Tool todo para la construccion y decoracion.  En tool.com.ar convergen diversas empresas, profesionales , servicios del rubro construcción, arquitectura y decoración." />
 
-  <meta name="KEYWORDS" content=" Tool todo para la construccion y decoracion.  En tool.com.ar convergen diversas empresas, profesionales , servicios del rubro construcción, arquitectura y decoración. Remodelaciones, Albiñileria, Proyectos, Ceramicos, Durlock, Pintura, Muebles de Cocina, Placas de Humedad," />
+  <meta name="KEYWORDS" content=" Tool todo para la construccion y decoracion.  En tool.com.ar convergen diversas empresas, profesionales , servicios del rubro construcción, arquitectura y decoración. Remodelaciones, Albiñileria, Proyectos, Ceramicos, Durlock, Pintura, Muebles de Cocina, Placas de Humedad, marketing digital" />
      <meta name="author" content="Rizzo">
      <!--meta-->
 
@@ -36,13 +36,14 @@
   <body >
 
   <header>
-    <div class="container-fluid">
-          <div class="row">
 
-              <nav class="navbar navbar-inverse quienes">
+    <div class="container-fluid">
+          <div class="row" style="font-family:cursive;font-size:15px">
+
+              <nav   class="navbar navbar-inverse quienes " >
               <div class="container-fluid">
                 <!-- Brand and toggle get grouped for better mobile display -->
-                <div class="navbar-header">
+                <div class="navbar-header" style="margin-right:0">
                   <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
@@ -84,7 +85,6 @@
                   
                                     <a href="https://www.facebook.com/Toolcomar-242483929967483/?modal=admin_todo_tour" target="_blank" class="fa fa-facebook"></a>
                                     <a href="https://twitter.com/tool_ar" target="_blank" class="fa fa-twitter"></a>
-                                    <a href="#" target="_blank" class="fa fa-linkedin"></a>
                                     <a href="https://www.youtube.com/channel/UCaStPxG79xj9gGI9y-bMqZA?disable_polymer=true" target="_blank" class="fa fa-youtube"></a>
                                     <a href="https://www.instagram.com/tool.com.ar/" target="_blank" class="fa fa-instagram"></a>
                   </ul>
@@ -147,7 +147,7 @@
                       
                                     En <strong>tool.com.ar</strong> convergen diversas empresas, <br> profesionales , servicios del rubro construcción, arquitectura y decoración. <br>
                                     <br>
-                                    <strong>Nuestra misión </strong> es dar un giro e impactar, <br> es por eso que desarrollamos una nueva manera de facilitar a los consumidores su búsqueda <br> y de esta manera  que nuestros clientes incrementen masivamente sus ventas logrando un excelente posicionamiento de su marca. <br>
+                                    <strong>Nuestra misión </strong> es dar un giro e impactar, <br> es por eso que desarrollamos una nueva manera de facilitar a los consumidores su búsqueda, en servicios de construccion <br> y de esta manera  que nuestros clientes incrementen masivamente sus ventas logrando un excelente posicionamiento de su marca. <br>
                                     <br>
                                   
                                     <strong>Somos parte de una cultura de pensadores y creadores</strong><br> que buscan estrategias sólidas de comunicación, nos basamos en unificar todas las soluciones para tus proyectos. <br>
@@ -167,7 +167,7 @@
                           </div> 
                           </div>
                             <div class="row  quienes" align="center"  id="quienessomos">
-                               <h2 style="font-family:cursive"> <b> Ventajas </b></h2>
+                               <h2 style="font-family:cursive"> <b> Que? </b></h2>
                       <div class="col-md-6 col-xs-12">
                       <img src="img/wd.jpg" style="max-width:100%;width:auto;height:auto;">
 
@@ -177,20 +177,30 @@
                         
                                  <h4>   <p style="font-family:cursive">
 
-                                  
-                                    *   La publicidad no direccionada es como tirar semillas entre las rocas.... <br>
-                                    <br>
-                                    *   La publicidad gráfica ya no la ve nadie. <br>
-                                    <br>
-                                    *   La publicidad en Tv es para pocos. <br>
-                                    <br>
-                                    *   Estamos reuniendo a todos los actores del mercado de la construcción y afines. <br>
-                                    <br>
-                                  
-                                    <strong>Ya no hace falta navegar sin éxito, </strong><br> ahora el éxito lo tenes en tus manos,<br> con un solo click la manera más rápida y sencilla de encontrar lo que necesitas.<br> 
-                                    <br>
-                                    <strong> Encontrá en un solo lugar lo que buscas</strong>,<br> todas las soluciones a través de un buscador inteligente e innovador<br> que te llevará a donde sea necesario.<br>
-
+                                   Por que elegirnos ?<br>
+                                   <br>
+                                      *Nuevos actores en la industria<br>
+                                      <br>
+                                      * La publicidad no direccionada es como tirar semillas entre las rocas.... <br>
+                                      <br>
+                                      * La publicidad gráfica ya no la ve nadie. <br>
+                                      <br>
+                                      * La publicidad en Tv es para pocos. <br>
+                                      <br>
+                                      * Estamos reuniendo a todos los actores del mercado de la construcción y afines. <br>
+                                     <br>
+                                     
+                                     </p>
+                                     <p style="font-family:cursive;font-size:20px" >
+                                      Ya no hace falta <strong> navegar sin éxito </strong><br>
+                                      <br> 
+                                      Ahora el éxito lo tenes en tus manos<br>
+                                      Con un solo click la manera <stron> más rápida y sencilla</stron> de encontrar lo que necesitas.
+                                      <br>
+                                      Encontrá en <strong>un solo lugar</strong> lo que buscas.
+                                      <br> 
+  
+                                     
                                     </p>
                                 </h4>
 
@@ -198,20 +208,75 @@
               
                           </div> 
                           </div>
+
+
+
+
+
+                          <div  class="row  quienes" align="center" >
+
+                               <h2 style="font-family:cursive"> <b>Ventajas</b></h2>
+
+                          <div class="col-md-6">
+                             <h3 style="font-family:cursive"> <b> Sos Empresa o Prestador de Servicio</b></h3>
+                              <p style="font-family:cursive;font-size:20px">
+                                      
+                                      *Publica con nosotros<br>
+                                      <br>
+                                      *Mejora tus ventas <br>
+                                      <br>
+                                      *Mejora  propuestas  y presupuestos<br>
+                                      <br>
+                                      *Servicio de marketing digital<br>
+                                      <br>
+
+
+                              </p>
+                          </div>
+                          <div class="col-md-6">
+                             <h3 style="font-family:cursive"> <b>Sos  Usuario</b></h3>
+                                <p style="font-family:cursive;font-size:20px">
+                                      *Busca el servicio que precisas<br>
+                                      <br>
+                                      *Ponete en contacto con  la empresa.<br>
+                                      <br>
+                                      *Saca tu presupuesto<br>
+                                      <br>
+                                      *Realiza tu consulta<br>
+                                      <br>
+
+                                </p> 
+                          </div>
+                          </div>
+                            <div clclass="row  quienes" align="center">
+                                   <div class="col-xs-12 col-md-12">
+                                      <h3 style="font-family:cursive"> <b>Sos libre de elejir</b></h3>
+
+                                      <p style="font-family:cursive;font-size:20px"> 
+                                      ‘’Sueña en grande y arriésgate a fallar’’ <br>
+                                      <br>
+                                      ‘’Las ocasiones no pasan, las creas tú mismo’’ <br>
+                                      <br>
+                                      Consultar es gratis….Hace tu consulta<br>
+                                      <br>
+                                      </p>
+                                  </div>
+                              </div>
+
                     
                           <br>
-                           <div class="row " align="center" id="contactanos">
+                           <div class="row " align="center" id="contactanos" >
                                           <div class="col-xs-12 col-md-12">
                                              <h2>
                                                 <a href="https://forms.gle/7pCUDKiPxR2of8kn8" target="_blank">
-                                                 <span style="font-family:cursive"> 
+                                                 <span style="font-family:cursive;font-size:50px"> 
                                                   Contactanos
                                                   <br>
                                                   </span>
                                         
                                                 </a>                
                                               </h2>
-                                              <h3><a href="https://forms.gle/7pCUDKiPxR2of8kn8" target="_blank">tool.com.ar@gmail.com</a></h3>
+                                              <h3><a href="https://forms.gle/7pCUDKiPxR2of8kn8" target="_blank">tool@tool.com.ar</a></h3>
 
                                         </div>
                                           
@@ -388,7 +453,7 @@
       <div class="container">
         <h2>Plan Bronce</h2>
        
-        <p> Seccion -- Precio $1000 </p>
+        <p> Seccion</p>
         <p>Contactanos</p>
         <p><a href="https://forms.gle/7pCUDKiPxR2of8kn8" target="_blank"><button class="button">Hace Click!</button></a></p>
       </div>
@@ -401,7 +466,7 @@
       <div class="container">
         <h2>Plan Plata</h2>
        
-        <p>Seccion Principio -- Precio $1500</p>
+        <p>Seccion Principio</p>
         <p>Contactanos</p>
         <p> <a href="https://forms.gle/7pCUDKiPxR2of8kn8" target="_blank"><button class="button">Hace Click!</button></a></p>
       </div>
@@ -414,7 +479,7 @@
       <div class="container">
         <h2>Plan Oro</h2>
        
-        <p>Principal -- Precio $2000 </p>
+        <p>Principal</p>
         <p>Contactanos</p>
          <p> <a href="https://forms.gle/7pCUDKiPxR2of8kn8" target="_blank"><button class="button">Hace Click!</button></a></p>
       </div>
@@ -423,12 +488,6 @@
 </div>
 </div>         
                     
-
-
-
-
-
-
 
 
                  <div class="row quienes" align="center">
@@ -453,14 +512,13 @@
                                         
                                                 </a>                
                                               </h2>
-                                              <h3><a href="https://forms.gle/7pCUDKiPxR2of8kn8" target="_blank">tool.com.ar@gmail.com</a></h3>
+                                              <h3><a href="https://forms.gle/7pCUDKiPxR2of8kn8" target="_blank">tool@tool.com.ar</a></h3>
                             </div>
                             <div class="col-xs-12 col-md-4 "  align="center">
                                   <h4>Seguinos!</H4>
                                     <ul>
                                     <a href="https://www.facebook.com/Toolcomar-242483929967483/?modal=admin_todo_tour" target="_blank" class="fa fa-facebook"></a>
                                     <a href="https://twitter.com/tool_ar" target="_blank" class="fa fa-twitter"></a>
-                                    <a href="#" target="_blank" class="fa fa-linkedin"></a>
                                     <a href="https://www.youtube.com/channel/UCaStPxG79xj9gGI9y-bMqZA?disable_polymer=true" target="_blank" class="fa fa-youtube"></a>
                                     <a href="https://www.instagram.com/tool.com.ar/" target="_blank" class="fa fa-instagram"></a>
                                     </ul>

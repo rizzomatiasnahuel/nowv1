@@ -44,7 +44,7 @@
 <h1 align="center" style="font-family:cursive">Proyectos</h1>
 <!-- lightbox -->
 <div class="row" align="center">
-              <div class="col-md-6 col-xs-12 " align="center">
+              <div class="col-md-6 col-xs-12 " align="center" style="font-family:cursive;font-size:15px">
                                      <div class="bordesempresas margcategorias">
                                             <a href="" target="_blank" >
                                                 <h2>Empresa:Arcadium Group </h2>
@@ -89,42 +89,42 @@
 
                                   <div class="mySlides">
                                     <div class="numbertext">1 / 8</div>
-                                    <img src="img/arca.png" style="width:50%">
+                                    <img src="img/arca.png" style="width:70%">
                                   </div>
 
                                   <div class="mySlides">
                                     <div class="numbertext">2 / 8</div>
-                                    <img src="img/arca2.png" style="width:50%">
+                                    <img src="img/arca2.png" style="width:70%">
                                   </div>
 
                                   <div class="mySlides">
                                     <div class="numbertext">3 / 8</div>
-                                    <img src="img/arca3.png" style="width:50%">
+                                    <img src="img/arca3.png" style="width:70%">
                                   </div>
 
                                   <div class="mySlides">
                                     <div class="numbertext">4 / 8</div>
-                                    <img src="img/arca4.png" style="width:50%">
+                                    <img src="img/arca4.png" style="width:70%">
                                   </div>
 
                                    <div class="mySlides">
                                     <div class="numbertext">5 / 8</div>
-                                    <img src="img/sizif.png" style="width:50%">
+                                    <img src="img/sizif.png" style="width:70%">
                                   </div>
 
                                   <div class="mySlides">
                                     <div class="numbertext">6 / 8</div>
-                                    <img src="img/sizif2.png" style="width:50%">
+                                    <img src="img/sizif2.png" style="width:70%">
                                   </div>
 
                                   <div class="mySlides">
                                     <div class="numbertext">7 / 8</div>
-                                    <img src="img/sizif3.png" style="width:50%">
+                                    <img src="img/sizif3.png" style="width:70%">
                                   </div>
 
                                   <div class="mySlides">
                                     <div class="numbertext">8 / 8</div>
-                                    <img src="img/sizif4.png" style="width:50%">
+                                    <img src="img/sizif4.png" style="width:70%">
                                   </div>
 
                                   <!-- Next/previous controls -->
@@ -136,38 +136,7 @@
                                     <p id="caption"></p>
                                   </div>
 
-                                  <!-- Thumbnail image controls -->
-                                  <div class="column">
-                                    <img class="demo" src="img/arca.png" onclick="currentSlide(1)" >
-                                  </div>
-
-                                  <div class="column">
-                                    <img class="demo" src="img/arca2.png" onclick="currentSlide(2)">
-                                  </div>
-
-                                  <div class="column">
-                                    <img class="demo" src="img/arca3.png" onclick="currentSlide(3)" >
-                                  </div>
-
-                                  <div class="column">
-                                    <img class="demo" src="img/arca4.png" onclick="currentSlide(4)" >
-                                  </div>
-
-                                  <div class="column">
-                                    <img class="demo" src="img/sizif.png" onclick="currentSlide(5)" >
-                                  </div>
-
-                                  <div class="column">
-                                    <img class="demo" src="img/sizif2.png" onclick="currentSlide(6)">
-                                  </div>
-
-                                  <div class="column">
-                                    <img class="demo" src="img/sizif3.png" onclick="currentSlide(7)" >
-                                  </div>
-
-                                  <div class="column">
-                                    <img class="demo" src="img/sizif4.png" onclick="currentSlide(8)" >
-                                  </div>
+                                 
                               </div>
                               </div>
 </div>
@@ -176,7 +145,7 @@
 <!-- Endlightbox -->
 <!-- lightbox -->
 <div class="row" align="center">
-              <div class="col-md-6 col-xs-12 " align="center">
+              <div class="col-md-6 col-xs-12 " align="center" style="font-family:cursive;font-size:15px">
                                      <div class="bordesempresas margcategorias">
                                             <a href="https://www.sizifsrl.com" target="_blank" >
                                               <h2>Empresa:Sizifsrl </h2>
